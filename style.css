@@ -1,0 +1,35 @@
+html {
+  background-color: #007FAE;
+  color: #27104A;
+  font-family: monospace;
+  font-size: 16px;
+}
+
+.background {
+  position: absolute;
+  z-index: -1;
+}
+
+.shape-rect {
+  background-color: #00509C80;
+  border-radius: 10px;
+  height: 45px;
+  transform: rotate(45deg);
+  width: 135px;
+}
+
+
+#logo {
+  text-align: center;
+}
+
+#main-ui {
+  background-color: #430F6080;
+  border-radius: 25px;
+  color: #27104A;
+  text-align: center;
+}
+
+a {
+  color: #84CA9B;
+}
