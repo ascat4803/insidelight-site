@@ -3,6 +3,7 @@ html {
   color: rgb(255, 255, 255);
   font-family: monospace;
   font-size: 16px;
+  overflow: hidden;
 }
 
 html, body {
@@ -22,7 +23,7 @@ body {
 }
 
 header {
-  background: rgba(255, 255, 255, 25%);
+  background: rgba(170, 140, 255, 0.25);
 }
 
 .btn-t1 {
@@ -46,7 +47,7 @@ header {
 }
 
 footer {
-  background: rgba(255, 55, 0, 25%);
+  background: rgba(170, 140, 255, 0.25);
   color: rgb();
   padding: 15px;
   text-align: center;
@@ -58,7 +59,7 @@ footer {
 }
 
 .shape-rect {
-  background-color: rgba(255, 255, 255, 12.5%);
+  background-color: rgba(170, 140, 255, 0.25);
   height: 45px;
   transform: rotate(45deg);
   width: 135px;
